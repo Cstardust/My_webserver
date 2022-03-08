@@ -1,0 +1,150 @@
+2022-03-08 22:32:32.527347 [debug]: ev+num = 1
+2022-03-08 22:32:32.527402 [debug]: Success
+2022-03-08 22:32:32.527409 [debug]: scokfd = 3
+2022-03-08 22:32:32.528451 [debug]: ev+num = 1
+2022-03-08 22:32:32.528517 [debug]: Success
+2022-03-08 22:32:32.528524 [debug]: scokfd = 8
+2022-03-08 22:32:32.528622 [info]: got 1 http line: GET / HTTP/1.1
+
+2022-03-08 22:32:32.528652 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-08 22:32:32.528661 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-08 22:32:32.528667 [info]: got 1 http line: Cache-Control: max-age=0
+
+2022-03-08 22:32:32.528672 [info]: oop! unknow header Cache-Control: max-age=0
+
+2022-03-08 22:32:32.528678 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-08 22:32:32.528683 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2022-03-08 22:32:32.528688 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:32.528693 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:32.528699 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-08 22:32:32.528704 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-08 22:32:32.528710 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:32.528715 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:32.528721 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:32.528726 [info]: oop! unknow header Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:32.528731 [info]: got 1 http line: 
+
+2022-03-08 22:32:32.528789 [debug]: ev+num = 1
+2022-03-08 22:32:32.528812 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:32.528819 [debug]: scokfd = 8
+2022-03-08 22:32:32.548117 [debug]: ev+num = 1
+2022-03-08 22:32:32.548273 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:32.548304 [debug]: scokfd = 8
+2022-03-08 22:32:32.548407 [info]: got 1 http line: GET /images/image2.jpg HTTP/1.1
+
+2022-03-08 22:32:32.548423 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-08 22:32:32.548428 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-08 22:32:32.548433 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:32.548437 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:32.548442 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-08 22:32:32.548446 [info]: oop! unknow header Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-08 22:32:32.548449 [info]: got 1 http line: Referer: http://192.168.147.179:12345/
+
+2022-03-08 22:32:32.548453 [info]: oop! unknow header Referer: http://192.168.147.179:12345/
+
+2022-03-08 22:32:32.548457 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:32.548461 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:32.548465 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:32.548468 [info]: oop! unknow header Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:32.548471 [info]: got 1 http line: 
+
+2022-03-08 22:32:32.548505 [debug]: ev+num = 1
+2022-03-08 22:32:32.548512 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:32.548516 [debug]: scokfd = 8
+2022-03-08 22:32:35.803475 [debug]: ev+num = 1
+2022-03-08 22:32:35.803606 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:35.803628 [debug]: scokfd = 8
+2022-03-08 22:32:35.803690 [info]: got 1 http line: GET / HTTP/1.1
+
+2022-03-08 22:32:35.803717 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-08 22:32:35.803725 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-08 22:32:35.803729 [info]: got 1 http line: Cache-Control: max-age=0
+
+2022-03-08 22:32:35.803733 [info]: oop! unknow header Cache-Control: max-age=0
+
+2022-03-08 22:32:35.803737 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-08 22:32:35.803740 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2022-03-08 22:32:35.803744 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:35.803748 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:35.803752 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-08 22:32:35.803756 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-08 22:32:35.803759 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:35.803763 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:35.803767 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:35.803771 [info]: oop! unknow header Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:35.803775 [info]: got 1 http line: 
+
+2022-03-08 22:32:35.803803 [debug]: ev+num = 1
+2022-03-08 22:32:35.803809 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:35.803813 [debug]: scokfd = 8
+2022-03-08 22:32:35.820188 [debug]: ev+num = 1
+2022-03-08 22:32:35.820387 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:35.820439 [debug]: scokfd = 8
+2022-03-08 22:32:35.820636 [info]: got 1 http line: GET /images/image2.jpg HTTP/1.1
+
+2022-03-08 22:32:35.820665 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-08 22:32:35.820671 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-08 22:32:35.820676 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:35.820681 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-08 22:32:35.820685 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-08 22:32:35.820689 [info]: oop! unknow header Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-08 22:32:35.820693 [info]: got 1 http line: Referer: http://192.168.147.179:12345/
+
+2022-03-08 22:32:35.820696 [info]: oop! unknow header Referer: http://192.168.147.179:12345/
+
+2022-03-08 22:32:35.820700 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:35.820704 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2022-03-08 22:32:35.820708 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:35.820713 [info]: oop! unknow header Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-08 22:32:35.820717 [info]: got 1 http line: 
+
+2022-03-08 22:32:35.820756 [debug]: ev+num = 1
+2022-03-08 22:32:35.820766 [debug]: Resource temporarily unavailable
+2022-03-08 22:32:35.820770 [debug]: scokfd = 8
+2022-03-08 22:35:23.873222 [debug]: ev+num = 1
+2022-03-08 22:35:23.873454 [debug]: Resource temporarily unavailable
+2022-03-08 22:35:23.873474 [debug]: scokfd = 8

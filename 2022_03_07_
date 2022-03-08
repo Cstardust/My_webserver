@@ -1,0 +1,374 @@
+2022-03-07 22:25:43.937816 [info]: 触发文件描述符 5
+2022-03-07 22:25:43.937899 [info]: SIGALRM信号
+2022-03-07 22:25:48.938312 [info]: 触发文件描述符 5
+2022-03-07 22:25:48.938431 [info]: SIGALRM信号
+2022-03-07 22:25:53.938511 [info]: 触发文件描述符 5
+2022-03-07 22:25:53.938618 [info]: SIGALRM信号
+2022-03-07 22:25:58.939228 [info]: 触发文件描述符 5
+2022-03-07 22:25:58.939339 [info]: SIGALRM信号
+2022-03-07 22:26:03.939844 [info]: 触发文件描述符 5
+2022-03-07 22:26:03.939963 [info]: SIGALRM信号
+2022-03-07 22:26:06.332895 [info]: 触发文件描述符 3
+2022-03-07 22:26:06.333651 [info]: 触发文件描述符 8
+2022-03-07 22:26:06.333800 [info]: got 1 http line: GET /index.html HTTP/1.1
+
+2022-03-07 22:26:06.333825 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:26:06.333838 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:26:06.333849 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-07 22:26:06.333863 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:26:06.333877 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-07 22:26:06.333901 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:26:06.333913 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:26:06.333925 [info]: got 1 http line: 
+
+2022-03-07 22:26:06.335207 [info]: 触发文件描述符 8
+2022-03-07 22:26:06.595929 [info]: 触发文件描述符 8
+2022-03-07 22:26:06.596178 [info]: got 1 http line: GET /images/image1.jpg HTTP/1.1
+
+2022-03-07 22:26:06.596305 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:26:06.596395 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:26:06.596493 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:26:06.596554 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-07 22:26:06.596611 [info]: got 1 http line: Referer: http://192.168.147.179:12345/index.html
+
+2022-03-07 22:26:06.596635 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:26:06.596649 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:26:06.596662 [info]: got 1 http line: 
+
+2022-03-07 22:26:06.596713 [info]: 触发文件描述符 8
+2022-03-07 22:26:06.689423 [info]: 触发文件描述符 8
+2022-03-07 22:26:06.689629 [info]: got 1 http line: GET /favicon.ico HTTP/1.1
+
+2022-03-07 22:26:06.689655 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:26:06.689664 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:26:06.689675 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:26:06.689685 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-07 22:26:06.689693 [info]: got 1 http line: Referer: http://192.168.147.179:12345/index.html
+
+2022-03-07 22:26:06.689701 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:26:06.689710 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:26:06.689718 [info]: got 1 http line: 
+
+2022-03-07 22:26:06.689748 [info]: 触发文件描述符 8
+2022-03-07 22:26:07.332960 [info]: 触发文件描述符 3
+2022-03-07 22:26:08.940924 [info]: 触发文件描述符 5
+2022-03-07 22:26:08.941050 [info]: SIGALRM信号
+2022-03-07 22:26:08.941214 [info]: time tick
+2022-03-07 22:26:13.942160 [info]: 触发文件描述符 5
+2022-03-07 22:26:13.942269 [info]: SIGALRM信号
+2022-03-07 22:26:13.942520 [info]: time tick
+2022-03-07 22:26:18.943151 [info]: 触发文件描述符 5
+2022-03-07 22:26:18.943220 [info]: SIGALRM信号
+2022-03-07 22:26:18.943508 [info]: time tick
+2022-03-07 22:26:23.344506 [info]: 触发文件描述符 8
+2022-03-07 22:26:23.344690 [info]: got 1 http line: GET /vedio.html HTTP/1.1
+
+2022-03-07 22:26:23.344737 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:26:23.344747 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:26:23.344754 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-07 22:26:23.344763 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:26:23.344772 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-07 22:26:23.344780 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:26:23.344788 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:26:23.344796 [info]: got 1 http line: 
+
+2022-03-07 22:26:23.344864 [info]: 触发文件描述符 8
+2022-03-07 22:26:23.432907 [info]: 触发文件描述符 8
+2022-03-07 22:26:23.433051 [info]: got 1 http line: GET /vedios/vedio1.mp4 HTTP/1.1
+
+2022-03-07 22:26:23.433098 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:26:23.433119 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:26:23.433144 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:26:23.433160 [info]: got 1 http line: Accept-Encoding: identity;q=1, *;q=0
+
+2022-03-07 22:26:23.433168 [info]: got 1 http line: Accept: */*
+
+2022-03-07 22:26:23.433176 [info]: got 1 http line: Referer: http://192.168.147.179:12345/vedio.html
+
+2022-03-07 22:26:23.433188 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:26:23.433197 [info]: got 1 http line: Range: bytes=0-
+
+2022-03-07 22:26:23.433206 [info]: got 1 http line: 
+
+2022-03-07 22:26:23.433412 [info]: 触发文件描述符 8
+2022-03-07 22:26:23.944219 [info]: 触发文件描述符 5
+2022-03-07 22:26:23.944382 [info]: SIGALRM信号
+2022-03-07 22:26:23.944408 [info]: time tick
+2022-03-07 22:26:23.944783 [info]: cb_func 9 closed
+2022-03-07 22:26:28.945925 [info]: 触发文件描述符 5
+2022-03-07 22:26:28.946022 [info]: SIGALRM信号
+2022-03-07 22:26:28.946034 [info]: time tick
+2022-03-07 22:26:33.947108 [info]: 触发文件描述符 5
+2022-03-07 22:26:33.947220 [info]: SIGALRM信号
+2022-03-07 22:26:33.947247 [info]: time tick
+2022-03-07 22:26:38.947772 [info]: 触发文件描述符 5
+2022-03-07 22:26:38.947841 [info]: SIGALRM信号
+2022-03-07 22:26:38.947864 [info]: time tick
+2022-03-07 22:26:38.947873 [info]: cb_func 8 closed
+2022-03-07 22:26:43.948636 [info]: 触发文件描述符 5
+2022-03-07 22:26:43.948822 [info]: SIGALRM信号
+2022-03-07 22:26:48.949710 [info]: 触发文件描述符 5
+2022-03-07 22:26:48.949898 [info]: SIGALRM信号
+2022-03-07 22:26:53.950614 [info]: 触发文件描述符 5
+2022-03-07 22:26:53.950677 [info]: SIGALRM信号
+2022-03-07 22:26:58.952017 [info]: 触发文件描述符 5
+2022-03-07 22:26:58.952101 [info]: SIGALRM信号
+2022-03-07 22:27:03.952513 [info]: 触发文件描述符 5
+2022-03-07 22:27:03.952615 [info]: SIGALRM信号
+2022-03-07 22:27:08.952846 [info]: 触发文件描述符 5
+2022-03-07 22:27:08.952963 [info]: SIGALRM信号
+2022-03-07 22:27:13.953642 [info]: 触发文件描述符 5
+2022-03-07 22:27:13.953739 [info]: SIGALRM信号
+2022-03-07 22:27:18.953990 [info]: 触发文件描述符 5
+2022-03-07 22:27:18.954070 [info]: SIGALRM信号
+2022-03-07 22:27:23.954627 [info]: 触发文件描述符 5
+2022-03-07 22:27:23.954694 [info]: SIGALRM信号
+2022-03-07 22:27:28.955061 [info]: 触发文件描述符 5
+2022-03-07 22:27:28.955123 [info]: SIGALRM信号
+2022-03-07 22:27:33.955874 [info]: 触发文件描述符 5
+2022-03-07 22:27:33.955984 [info]: SIGALRM信号
+2022-03-07 22:27:38.956566 [info]: 触发文件描述符 5
+2022-03-07 22:27:38.956636 [info]: SIGALRM信号
+2022-03-07 22:28:07.169407 [info]: 触发文件描述符 3
+2022-03-07 22:28:07.169503 [info]: 触发文件描述符 3
+2022-03-07 22:28:07.169773 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.169874 [info]: got 1 http line: GET /vedio.html HTTP/1.1
+
+2022-03-07 22:28:07.169987 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:28:07.170037 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:28:07.170074 [info]: got 1 http line: Cache-Control: max-age=0
+
+2022-03-07 22:28:07.170112 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-07 22:28:07.170141 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:28:07.170166 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-07 22:28:07.170199 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:28:07.170232 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:28:07.170265 [info]: got 1 http line: 
+
+2022-03-07 22:28:07.170342 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.183999 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.184151 [info]: got 1 http line: GET /vedios/vedio1.mp4 HTTP/1.1
+
+2022-03-07 22:28:07.184177 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:28:07.184186 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:28:07.184194 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:28:07.184203 [info]: got 1 http line: Accept-Encoding: identity;q=1, *;q=0
+
+2022-03-07 22:28:07.184210 [info]: got 1 http line: Accept: */*
+
+2022-03-07 22:28:07.184218 [info]: got 1 http line: Referer: http://192.168.147.179:12345/vedio.html
+
+2022-03-07 22:28:07.184226 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:28:07.184234 [info]: got 1 http line: Range: bytes=0-
+
+2022-03-07 22:28:07.184242 [info]: got 1 http line: 
+
+2022-03-07 22:28:07.184310 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.186029 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.199467 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.214026 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.222542 [info]: 触发文件描述符 8
+2022-03-07 22:28:07.228253 [info]: 触发文件描述符 8
+2022-03-07 22:28:09.011191 [info]: 触发文件描述符 5
+2022-03-07 22:28:09.011457 [info]: SIGALRM信号
+2022-03-07 22:28:09.011502 [info]: time tick
+2022-03-07 22:28:09.085955 [info]: 触发文件描述符 8
+2022-03-07 22:28:09.087217 [info]: 触发文件描述符 9
+2022-03-07 22:28:09.087328 [info]: cb_func 9 closed
+2022-03-07 22:28:09.090796 [info]: 触发文件描述符 8
+2022-03-07 22:28:09.092433 [info]: 触发文件描述符 3
+2022-03-07 22:28:09.092555 [info]: 触发文件描述符 9
+2022-03-07 22:28:09.092676 [info]: got 1 http line: GET /favicon.ico HTTP/1.1
+
+2022-03-07 22:28:09.092751 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:28:09.092802 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:28:09.092861 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:28:09.092879 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-07 22:28:09.092894 [info]: got 1 http line: Referer: http://192.168.147.179:12345/vedio.html
+
+2022-03-07 22:28:09.092908 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:28:09.092939 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:28:09.092956 [info]: got 1 http line: 
+
+2022-03-07 22:28:09.093017 [info]: 触发文件描述符 9
+2022-03-07 22:28:09.097914 [info]: 触发文件描述符 8
+2022-03-07 22:28:14.012067 [info]: 触发文件描述符 5
+2022-03-07 22:28:14.012136 [info]: SIGALRM信号
+2022-03-07 22:28:14.012148 [info]: time tick
+2022-03-07 22:28:19.012956 [info]: 触发文件描述符 5
+2022-03-07 22:28:19.013122 [info]: SIGALRM信号
+2022-03-07 22:28:19.013137 [info]: time tick
+2022-03-07 22:28:24.014209 [info]: 触发文件描述符 5
+2022-03-07 22:28:24.014341 [info]: SIGALRM信号
+2022-03-07 22:28:24.014512 [info]: time tick
+2022-03-07 22:28:24.014576 [info]: cb_func 9 closed
+2022-03-07 22:28:24.014670 [info]: cb_func 8 closed
+2022-03-07 22:28:29.015488 [info]: 触发文件描述符 5
+2022-03-07 22:28:29.015580 [info]: SIGALRM信号
+2022-03-07 22:28:34.015907 [info]: 触发文件描述符 5
+2022-03-07 22:28:34.016029 [info]: SIGALRM信号
+2022-03-07 22:28:38.126650 [info]: 触发文件描述符 3
+2022-03-07 22:28:38.126782 [info]: 触发文件描述符 8
+2022-03-07 22:28:38.126914 [info]: got 1 http line: GET /index.html HTTP/1.1
+
+2022-03-07 22:28:38.126970 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:28:38.127009 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:28:38.127040 [info]: got 1 http line: Cache-Control: max-age=0
+
+2022-03-07 22:28:38.127066 [info]: got 1 http line: Upgrade-Insecure-Requests: 1
+
+2022-03-07 22:28:38.127082 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:28:38.127094 [info]: got 1 http line: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2022-03-07 22:28:38.127104 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:28:38.127112 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:28:38.127122 [info]: got 1 http line: 
+
+2022-03-07 22:28:38.127195 [info]: 触发文件描述符 8
+2022-03-07 22:28:38.136415 [info]: 触发文件描述符 8
+2022-03-07 22:28:38.136597 [info]: got 1 http line: GET /images/image1.jpg HTTP/1.1
+
+2022-03-07 22:28:38.136614 [info]: got 1 http line: Host: 192.168.147.179:12345
+
+2022-03-07 22:28:38.136622 [info]: got 1 http line: Connection: keep-alive
+
+2022-03-07 22:28:38.136629 [info]: got 1 http line: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+
+2022-03-07 22:28:38.136638 [info]: got 1 http line: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2022-03-07 22:28:38.136645 [info]: got 1 http line: Referer: http://192.168.147.179:12345/index.html
+
+2022-03-07 22:28:38.136653 [info]: got 1 http line: Accept-Encoding: gzip, deflate
+
+2022-03-07 22:28:38.136660 [info]: got 1 http line: Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+2022-03-07 22:28:38.136668 [info]: got 1 http line: 
+
+2022-03-07 22:28:38.136699 [info]: 触发文件描述符 8
+2022-03-07 22:28:39.016274 [info]: 触发文件描述符 5
+2022-03-07 22:28:39.016389 [info]: SIGALRM信号
+2022-03-07 22:28:39.016416 [info]: time tick
+2022-03-07 22:28:44.017016 [info]: 触发文件描述符 5
+2022-03-07 22:28:44.017139 [info]: SIGALRM信号
+2022-03-07 22:28:44.017175 [info]: time tick
+2022-03-07 22:28:49.017283 [info]: 触发文件描述符 5
+2022-03-07 22:28:49.017371 [info]: SIGALRM信号
+2022-03-07 22:28:49.017410 [info]: time tick
+2022-03-07 22:28:54.018362 [info]: 触发文件描述符 5
+2022-03-07 22:28:54.018467 [info]: SIGALRM信号
+2022-03-07 22:28:54.018745 [info]: time tick
+2022-03-07 22:28:54.018807 [info]: cb_func 8 closed
+2022-03-07 22:28:59.019873 [info]: 触发文件描述符 5
+2022-03-07 22:28:59.020106 [info]: SIGALRM信号
+2022-03-07 22:29:04.020447 [info]: 触发文件描述符 5
+2022-03-07 22:29:04.020549 [info]: SIGALRM信号
+2022-03-07 22:29:09.021196 [info]: 触发文件描述符 5
+2022-03-07 22:29:09.021280 [info]: SIGALRM信号
+2022-03-07 22:29:14.022121 [info]: 触发文件描述符 5
+2022-03-07 22:29:14.022206 [info]: SIGALRM信号
+2022-03-07 22:29:19.022478 [info]: 触发文件描述符 5
+2022-03-07 22:29:19.022554 [info]: SIGALRM信号
+2022-03-07 22:29:24.023489 [info]: 触发文件描述符 5
+2022-03-07 22:29:24.023591 [info]: SIGALRM信号
+2022-03-07 22:29:29.024607 [info]: 触发文件描述符 5
+2022-03-07 22:29:29.024694 [info]: SIGALRM信号
+2022-03-07 22:29:34.025645 [info]: 触发文件描述符 5
+2022-03-07 22:29:34.025765 [info]: SIGALRM信号
+2022-03-07 22:29:39.026257 [info]: 触发文件描述符 5
+2022-03-07 22:29:39.026358 [info]: SIGALRM信号
+2022-03-07 22:29:44.027264 [info]: 触发文件描述符 5
+2022-03-07 22:29:44.027452 [info]: SIGALRM信号
+2022-03-07 22:29:49.028738 [info]: 触发文件描述符 5
+2022-03-07 22:29:49.028872 [info]: SIGALRM信号
+2022-03-07 22:29:54.029797 [info]: 触发文件描述符 5
+2022-03-07 22:29:54.029920 [info]: SIGALRM信号
+2022-03-07 22:29:59.030553 [info]: 触发文件描述符 5
+2022-03-07 22:29:59.030607 [info]: SIGALRM信号
+2022-03-07 22:30:04.031653 [info]: 触发文件描述符 5
+2022-03-07 22:30:04.031791 [info]: SIGALRM信号
+2022-03-07 22:30:09.032934 [info]: 触发文件描述符 5
+2022-03-07 22:30:09.033018 [info]: SIGALRM信号
+2022-03-07 22:30:14.034345 [info]: 触发文件描述符 5
+2022-03-07 22:30:14.034430 [info]: SIGALRM信号
+2022-03-07 22:30:19.035070 [info]: 触发文件描述符 5
+2022-03-07 22:30:19.035160 [info]: SIGALRM信号
+2022-03-07 22:30:24.036594 [info]: 触发文件描述符 5
+2022-03-07 22:30:24.036729 [info]: SIGALRM信号
+2022-03-07 22:30:29.037207 [info]: 触发文件描述符 5
+2022-03-07 22:30:29.037318 [info]: SIGALRM信号
+2022-03-07 22:30:34.038049 [info]: 触发文件描述符 5
+2022-03-07 22:30:34.038141 [info]: SIGALRM信号
+2022-03-07 22:30:39.038652 [info]: 触发文件描述符 5
+2022-03-07 22:30:39.038728 [info]: SIGALRM信号
+2022-03-07 22:30:44.039573 [info]: 触发文件描述符 5
+2022-03-07 22:30:44.039684 [info]: SIGALRM信号
+2022-03-07 22:30:49.039967 [info]: 触发文件描述符 5
+2022-03-07 22:30:49.040076 [info]: SIGALRM信号
+2022-03-07 22:30:54.041152 [info]: 触发文件描述符 5
+2022-03-07 22:30:54.041269 [info]: SIGALRM信号
+2022-03-07 22:30:59.042441 [info]: 触发文件描述符 5
+2022-03-07 22:30:59.042511 [info]: SIGALRM信号
+2022-03-07 22:31:04.043586 [info]: 触发文件描述符 5
+2022-03-07 22:31:04.043658 [info]: SIGALRM信号
+2022-03-07 22:31:09.044636 [info]: 触发文件描述符 5
+2022-03-07 22:31:09.044742 [info]: SIGALRM信号
+2022-03-07 22:31:14.045120 [info]: 触发文件描述符 5
+2022-03-07 22:31:14.045184 [info]: SIGALRM信号
+2022-03-07 22:31:19.046204 [info]: 触发文件描述符 5
+2022-03-07 22:31:19.046284 [info]: SIGALRM信号
+2022-03-07 22:31:24.047306 [info]: 触发文件描述符 5
+2022-03-07 22:31:24.047377 [info]: SIGALRM信号
+2022-03-07 22:31:29.048049 [info]: 触发文件描述符 5
+2022-03-07 22:31:29.048134 [info]: SIGALRM信号
