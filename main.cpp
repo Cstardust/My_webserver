@@ -22,7 +22,7 @@ static int pipefd[2];
 extern int setnonblocking(int fd);
 //  通常,我们根据recv返回值来判断socket是接收到的有效数据还是对方关闭连接的请求
 //  但 EPOLLRHUP事件,在socke上接收到对方关闭连接的请求后触发.
-extern void addfd(int epfd,int fd,bool oneshot,bool et = true);
+extern void addfd(int epfd,int fd,bool et = true,bool oneshot = true);
 static sort_timer_list timer_lst;   //  定时器链表 每个结点都是一个定时器对象
 extern void removefd(int epfd,int fd);
 

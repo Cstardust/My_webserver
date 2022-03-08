@@ -803,7 +803,7 @@ int setnonblocking(int fd)
 
 //  通常,我们根据recv返回值来判断socket是接收到的有效数据还是对方关闭连接的请求
 //  但 EPOLLRHUP事件,在socke上接收到对方关闭连接的请求后触发.
-void addfd(int epfd,int fd,bool oneshot,bool et)    //  lfd 可以ET么？
+void addfd(int epfd,int fd,bool et,bool oneshot)    //  lfd 可以ET么？
 {
     struct epoll_event event;
     event.events = EPOLLIN | EPOLLRDHUP;  // 读 ET 关闭
