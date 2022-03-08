@@ -12,7 +12,6 @@
 - 使用有限状态机解析HTTP请求报文，可以解析GET 请求 //  和POST请求。
 - 多线程，增加并发服务数量。
 
-
 ## 难点
 - 实现线程池，提高吞吐量
   - 信号量实现对任务的互斥，互斥锁实现线程同步。
@@ -30,6 +29,11 @@
 - 加深了对TCP三次握手四次挥手的理解
 - 了解了http协议
 - 对Web服务器服务过程有基本了解
+![image](https://user-images.githubusercontent.com/73826377/157267362-16c44478-daa4-433c-b819-88d415db2dcf.png)
+![image](https://user-images.githubusercontent.com/73826377/157267912-e83e9c7d-72a4-4e20-9771-f9ce513c4a1e.png)
+
+![7ee72e43daab159b427299359555420](https://user-images.githubusercontent.com/73826377/157266380-aa52e25b-a834-4295-bb06-a2a2ce47137d.png)
+
 
 ## 下一步目标
 - vector<char>实现缓冲区动态增长
