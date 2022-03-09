@@ -731,6 +731,8 @@ void http_conn::process()
 //  是为了接上上一次的数据，防止覆盖，
 bool http_conn::read_conn()
 {
+    LOG_INFO("m_sockfd = %d",m_sockfd);
+    Log::get_instance()->flush();
     //  读满了 false 然后就会close这个对象（fd）然后该对象再次init时，就会重新设置m_read_idx = 0，故不会溢出
     if( m_read_idx >= READ_BUFFER_SIZE ) {   //  m_read_idx 下一次要读的起点，就是这里。缓冲区大小[0,BUFFER_SIZE-1]
         std::cout<<m_read_idx<<std::endl;

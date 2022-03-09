@@ -145,7 +145,7 @@ int main(int argc,char *argv[])
     ret = socketpair(PF_UNIX, SOCK_STREAM, 0, pipefd);
     assert(ret != -1);
     setnonblocking(pipefd[1]);      //  非阻塞写
-    addfd(epfd, pipefd[0], false);  //  epoll注册读事件  
+    addfd(epfd, pipefd[0], false,false);  //  epoll注册读事件 可不能是oneshot啊。  
     //  信号从pipefd[1]中写入，从pipefd[0]中读取。这是信号捕捉函数通知main线程发生了sigalrm信号的方式
     //  当有连接太久不活跃（即发生超时事件），sort_timer_lst对象会检测到，并去处理？/？
 
@@ -180,7 +180,7 @@ int main(int argc,char *argv[])
             int sockfd = events[i].data.fd;
             // cout<<"sockfd = "<<sockfd<<endl;
 
-            LOG_DEBUG("scokfd = %d",sockfd);
+            LOG_INFO("scokfd = %d",sockfd);
             Log::get_instance()->flush();
             // LOG_INFO("触发文件描述符 %d",sockfd);
             // Log::get_instance()->flush();
